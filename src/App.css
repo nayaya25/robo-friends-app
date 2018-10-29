@@ -1,5 +1,25 @@
 .App {
   text-align: center;
+}
 
+@font-face {
+font-family: 'SEGA LOGO FONT';
+font-style: normal;
+font-weight: normal;
+src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+}
+
+h1 {
+	font-family: 'SEGA LOGO FONT';
+	font-size: 30px;
+	letter-spacing: 6px;
+	text-transform: uppercase;
+	color: #0ccac4;
+	font-weight: 200px;
+
+}
+
+.robo-friends-text {
+	
 }
 

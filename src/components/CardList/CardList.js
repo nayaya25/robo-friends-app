@@ -1,11 +1,13 @@
 import React from "react";
+import Card from '../Card/Card';
 
-const CardList = props => {
+const CardList = ({ robots }) => {
+  	const CardComponent = robots.map((robot, i) => {
+  		return <Card key={i} id={i} robot={robot}/>
+      });
     return (
         <div>
-            <h3>
-                List of Cards
-            </h3>
+        	{CardComponent} 
         </div>
     );
 };

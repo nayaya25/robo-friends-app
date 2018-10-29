@@ -7,39 +7,39 @@ export const robots = [
     },
     {
         id: '2',
-        name: 'aliyu yusuf',
-        email: 'aliyu@gmail.com',
-        username: 'Alios'
+        name: 'adamu sani',
+        email: 'adamu@gmail.com',
+        username: 'Adams'
     },
     {
         id: '3',
-        name: 'aliyu yusuf',
-        email: 'aliyu@gmail.com',
-        username: 'Alios'
+        name: 'patrick john',
+        email: 'patick@gmail.com',
+        username: 'patrick'
     },
     {
         id: '4',
-        name: 'aliyu yusuf',
-        email: 'aliyu@gmail.com',
-        username: 'Alios'
+        name: 'sadiq tanimu',
+        email: 'sadiq@gmail.com',
+        username: 'sadiq'
     },
     {
         id: '5',
-        name: 'aliyu yusuf',
-        email: 'aliyu@gmail.com',
-        username: 'Alios'
+        name: 'walida Danjuma',
+        email: 'Walida@gmail.com',
+        username: 'Walida'
     },
     {
         id: '6',
-        name: 'aliyu yusuf',
-        email: 'aliyu@gmail.com',
-        username: 'Alios'
+        name: 'gambo sule',
+        email: 'gambo@gmail.com',
+        username: 'gambo'
     },
     {
         id: '7',
-        name: 'aliyu yusuf',
-        email: 'aliyu@gmail.com',
-        username: 'Alios'
+        name: 'nayaya ibrahim',
+        email: 'Nayaya@gmail.com',
+        username: 'Nayaya'
     },
     {
         id: '8',
